@@ -1,4 +1,4 @@
-# t
+# electricity-calculator
 
 ## Project setup
 ```
