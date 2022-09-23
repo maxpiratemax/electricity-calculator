@@ -1,4 +1,6 @@
 # electricity-calculator
+Билд проекта:
+https://maxpiratemax.github.io/electricity-calculator-buld/
 
 ## Project setup
 ```
